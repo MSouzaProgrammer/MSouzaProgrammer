@@ -1,261 +1,206 @@
-<!--
-███████╗██╗   ██╗██████╗ ███████╗██████╗
-██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗
-█████╗  ██║   ██║██████╔╝█████╗  ███████╔╝
-██╔══╝  ╚██╗ ██╔╝██╔═══╝ ██╔══╝  ██╔══██╗
-███████╗ ╚████╔╝ ██║     ███████╗██║  ██║
-╚══════╝  ╚═══╝  ╚═╝     ╚══════╝╚═╝  ╚═╝
--->
-
 <div align="center">
 
-# 🎮 MATEUS ASSIS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=MATEUS%20ASSIS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=JAVA%20%2F%2F%20BACKEND%20%2F%2F%20GAME%20DEVELOPER&descSize=14&descAlignY=68"/>
 
-### `JAVA & GAME DEVELOPER`
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=MATEUS%20ASSIS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=JAVA%20%7C%20BACKEND%20%7C%20GAME%20DEVELOPMENT&descAlignY=58&descSize=16"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MSouzaProgrammer)
-[![Instagram](https://img.shields.io/badge/@mateus.suky-111111?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/mateus.suky)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:mateusassissouzaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MSouzaProgrammer)
+[![Instagram](https://img.shields.io/badge/@mateus.suky-0D1117?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/mateus.suky)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:mateusassissouzaa@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🧬 PLAYER PROFILE
+## `01` — ABOUT ME
+
+> **Java & Game Developer** focused on backend development, software architecture and creative coding.
+
+I enjoy building applications with **Java, Spring Boot and relational databases**, while also exploring the creative side of programming through **game development**.
+
+Currently learning, building and experimenting with new ideas.
+
+<br>
+
+<div align="center">
+
+`☕ BUILD`　 `⚙️ CREATE`　 `🎮 PLAY`
+
+</div>
+
+<br>
+
+## `02` — TECHNOLOGY
+
+<div align="center">
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,git&theme=dark" />
+
+<br><br>
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
+
+<br><br>
+
+### GAME DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=gamemaker&theme=dark" />
+
+</div>
+
+<br>
+
+## `03` — CURRENT FOCUS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👤 PLAYER
+### Backend
 
-```text
-Name      : Mateus Assis
-Class     : Java & Game Developer
-Main Role : Backend Developer
-Status    : Leveling Up
-```
+Building applications with:
+
+* Java
+* Spring Boot
+* REST APIs
+* JPA / Hibernate
+* PostgreSQL
+* MySQL
+* Maven
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 CURRENT OBJECTIVE
+### Game Development
 
-```text
-[████████████████░░░░]
+Exploring:
 
-Build.
-Learn.
-Create.
-Repeat.
-```
+* GameMaker Studio 2
+* 2D game development
+* Gameplay systems
+* Game mechanics
+* Creative programming
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## ⚔️ SKILL TREE
-
-### ☕ BACKEND
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,git" />
-</p>
-
-### 🌐 FRONTEND
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
-</p>
-
-### 🎮 GAME DEVELOPMENT
-
-<p>
-<img src="https://skillicons.dev/icons?i=gamemaker" />
-</p>
-
----
-
-## 🎮 GAME DEV MODE
-
-> `SIDE QUEST UNLOCKED`
-
-Game development is one of my favorite ways to combine programming and creativity.
-
-I use **GameMaker Studio 2** to experiment with gameplay mechanics, 2D games and different ideas.
-
-```text
-╭──────────────────────────────────────────────╮
-│              🎮 GAME DEV MODE                │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ENGINE          GameMaker Studio 2          │
-│  TYPE            2D Games                    │
-│  FOCUS           Gameplay & Mechanics        │
-│  STATUS          ████████████████░░ 80%      │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 🚀 CURRENT QUEST
+## `04` — FEATURED PROJECT
 
 ### 🚛 Fleet Management System
 
-```text
-╔══════════════════════════════════════════════╗
-║              FLEET MANAGEMENT                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  ☕ Java                                     ║
-║  🌱 Spring Boot                              ║
-║  🐘 PostgreSQL                               ║
-║  🔗 REST API                                 ║
-║  🧩 JPA / Hibernate                          ║
-║  📦 Maven                                    ║
-║                                              ║
-║  STATUS: IN DEVELOPMENT                      ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+A backend project focused on managing fleet operations.
 
-Building backend systems, APIs and database-driven applications while leveling up my Java/Spring skills.
+**Stack**
 
----
+`Java` · `Spring Boot` · `PostgreSQL` · `JPA` · `Hibernate` · `REST API`
 
-## 🧠 TECH LOADOUT
+**Status**
 
-| Category         | Technologies                             |
-| ---------------- | ---------------------------------------- |
-| ☕ Backend        | Java, Spring Boot                        |
-| 🗄️ Database     | PostgreSQL, MySQL                        |
-| 🌐 Frontend      | JavaScript, TypeScript, React, HTML, CSS |
-| 🎮 Game Dev      | GameMaker Studio 2                       |
-| 🔧 Tools         | Git, Maven                               |
-| 🏗️ Architecture | REST API, JPA, Hibernate                 |
+`● In Development`
 
----
+> Building the system while improving backend architecture, database modeling and API development.
 
-## 🎹 PASSIVE ABILITIES
+<br>
 
-Programming isn't my only skill tree.
+## `05` — BEYOND CODE
 
-```text
-🎹 MUSICIAN
+Programming isn't the only thing I enjoy.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎹
+
+**Music**
+
 Keyboard / Piano
-██████████████████░░
 
-🎸 GUITAR
+</td>
+
+<td align="center" width="33%">
+
+### 🎸
+
+**Guitar**
+
 Playing & practicing
-████████████░░░░░░░░
 
-🎯 FPS PLAYER
-Competitive shooters
-████████████████░░░░
-```
+</td>
 
-When I'm not coding, I'm usually playing music, gaming or working on some random project that I probably didn't need to start. 😂
+<td align="center" width="33%">
 
----
+### 🎯
 
-## 📊 PLAYER STATS
+**Gaming**
+
+Competitive FPS
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `06` — GITHUB ACTIVITY
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MSouzaProgrammer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MSouzaProgrammer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSouzaProgrammer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSouzaProgrammer&layout=compact&theme=github_dark&hide_border=true&langs_count=7"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MSouzaProgrammer&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
----
+<br>
 
-## 🔥 CONTRIBUTION STREAK
+## `07` — CURRENTLY LEARNING
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MSouzaProgrammer&theme=tokyonight&hide_border=true"/>
+`Java`　 `Spring Boot`　 `PostgreSQL`　 `React`　 `TypeScript`
 
 </div>
 
----
+<br>
 
-## 🏆 ACHIEVEMENTS
-
-```text
-[✓] Learned Java
-[✓] Started Spring Boot
-[✓] Built REST APIs
-[✓] Worked with SQL databases
-[✓] Started Game Development
-[✓] Entered the React ecosystem
-[ ] Master Spring Boot
-[ ] Build something awesome
-[ ] Create the game I've always wanted
-[ ] Reach the next level
-```
-
----
-
-## 🎯 NEXT LEVEL
-
-```text
-╭──────────────────────────────────────────────╮
-│              CURRENT MISSION                 │
-├──────────────────────────────────────────────┤
-│                                              │
-│  ☕ Improve Java & Spring Boot               │
-│  🏗️ Build better backend architectures      │
-│  🌐 Improve frontend skills                  │
-│  🎮 Create better games                      │
-│  🧠 Learn something new every day            │
-│                                              │
-│              LEVELING UP...                  │
-│        █████████████████░░░  XP              │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
----
-
-## 📡 CONTACT
+## `08` — PHILOSOPHY
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@mateus.suky-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mateus.suky)
+### `Build things worth playing.`
 
-[![Email](https://img.shields.io/badge/mateusassissouzaa%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mateusassissouzaa@gmail.com)
+<br>
+
+Coding is the main quest.
+Game development is the side quest.
+Music is the soundtrack.
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-### `> SYSTEM MESSAGE`
+[![Instagram](https://img.shields.io/badge/@mateus.suky-161B22?style=flat-square\&logo=instagram\&logoColor=E4405F)](https://instagram.com/mateus.suky)
+[![Email](https://img.shields.io/badge/mateusassissouzaa%40gmail.com-161B22?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:mateusassissouzaa@gmail.com)
 
-```text
-Player detected.
+<br><br>
 
-Loading skills...
-Loading projects...
-Loading experience...
-
-████████████████████████████ 100%
-
-READY.
-
-> Continue? [Y/N]
-```
-
-### 🎮 `PRESS START`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=90&section=footer"/>
 
 </div>
