@@ -1,162 +1,221 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=MATEUS%20ASSIS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=JAVA%20%2F%2F%20BACKEND%20%2F%2F%20GAME%20DEVELOPER&descSize=14&descAlignY=68"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:0D1117,100:05070D&height=190&section=header&text=MATEUS%20ASSIS&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=JAVA%20%7C%20BACKEND%20%7C%20GAME%20DEVELOPER&descSize=15&descAlignY=65"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MSouzaProgrammer)
-[![Instagram](https://img.shields.io/badge/@mateus.suky-0D1117?style=for-the-badge\&logo=instagram\&logoColor=E4405F)](https://instagram.com/mateus.suky)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:mateusassissouzaa@gmail.com)
+<a href="https://github.com/MSouzaProgrammer">
+<img src="https://img.shields.io/badge/GitHub-MSOUZAPROGRAMMER-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mateus.suky">
+<img src="https://img.shields.io/badge/Instagram-@MATEUS.SUKY-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="mailto:mateusassissouzaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-CONTATO-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MSouzaProgrammer&style=for-the-badge&color=0D1117&label=VISITAS+NO+PERFIL"/>
 
 </div>
 
 <br>
 
-## `01` — ABOUT ME
+# `01` — SOBRE MIM
 
-> **Java & Game Developer** focused on backend development, software architecture and creative coding.
+> **Desenvolvedor Java focado em Backend, APIs e sistemas.**
 
-I enjoy building applications with **Java, Spring Boot and relational databases**, while also exploring the creative side of programming through **game development**.
+Sou desenvolvedor apaixonado por tecnologia e por transformar ideias em sistemas funcionais.
 
-Currently learning, building and experimenting with new ideas.
+Meu foco principal está no desenvolvimento **Backend com Java e Spring Boot**, trabalhando com APIs REST, bancos de dados relacionais, arquitetura de aplicações e integração entre sistemas.
+
+Também exploro o lado criativo da programação através do **desenvolvimento de jogos**, principalmente utilizando GameMaker.
+
+Atualmente estou constantemente estudando, criando projetos e buscando transformar conhecimento em aplicações reais.
 
 <br>
 
 <div align="center">
 
-`☕ BUILD`　 `⚙️ CREATE`　 `🎮 PLAY`
+### `☕ CODAR`　 `⚙️ CONSTRUIR`　 `🎮 CRIAR`
 
 </div>
 
 <br>
 
-## `02` — TECHNOLOGY
+# `02` — STACK
 
 <div align="center">
 
 ### BACKEND
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,maven,hibernate&theme=dark"/>
 
 <br><br>
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css&theme=dark"/>
+
+<br><br>
+
+### FERRAMENTAS
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker&theme=dark"/>
 
 <br><br>
 
 ### GAME DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=gamemaker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gamemaker&theme=dark"/>
 
 </div>
 
 <br>
 
-## `03` — CURRENT FOCUS
+# `03` — O QUE EU FAÇO
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Backend
+## ☕ Backend
 
-Building applications with:
+Desenvolvimento de aplicações utilizando:
 
 * Java
 * Spring Boot
-* REST APIs
-* JPA / Hibernate
+* Spring Data JPA
+* Hibernate
+* APIs REST
 * PostgreSQL
 * MySQL
 * Maven
+* Docker
+
+Busco escrever sistemas organizados, escaláveis e fáceis de manter.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Game Development
+## 🎮 Game Development
 
-Exploring:
+No desenvolvimento de jogos, trabalho principalmente com:
 
-* GameMaker Studio 2
-* 2D game development
-* Gameplay systems
-* Game mechanics
-* Creative programming
+* GameMaker Studio
+* GML
+* Desenvolvimento 2D
+* Sistemas de gameplay
+* Mecânicas
+* Pixel Art
+* Prototipação
+
+Gosto de usar jogos como uma forma de experimentar novas ideias e conceitos de programação.
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-## `04` — FEATURED PROJECT
-
-### 🚛 Fleet Management System
-
-A backend project focused on managing fleet operations.
-
-**Stack**
-
-`Java` · `Spring Boot` · `PostgreSQL` · `JPA` · `Hibernate` · `REST API`
-
-**Status**
-
-`● In Development`
-
-> Building the system while improving backend architecture, database modeling and API development.
-
-<br>
-
-## `05` — BEYOND CODE
-
-Programming isn't the only thing I enjoy.
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎹
-
-**Music**
-
-Keyboard / Piano
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎸
-
-**Guitar**
-
-Playing & practicing
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎯
-
-**Gaming**
-
-Competitive FPS
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `06` — GITHUB ACTIVITY
+# `04` — PROJETO EM DESTAQUE
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MSouzaProgrammer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+## 🚛 SISTEMA DE GESTÃO DE FROTAS
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSouzaProgrammer&layout=compact&theme=github_dark&hide_border=true&langs_count=7"/>
+</div>
+
+Um sistema desenvolvido para gerenciamento e controle de operações relacionadas a uma frota de veículos.
+
+O projeto envolve desde a modelagem do banco de dados até a construção da API e das regras de negócio.
+
+### Tecnologias
+
+`Java` · `Spring Boot` · `PostgreSQL` · `JPA` · `Hibernate` · `REST API`
+
+### Principais objetivos
+
+* Gerenciamento de veículos
+* Controle de informações da frota
+* Organização dos dados
+* APIs para comunicação entre sistemas
+* Estruturação das regras de negócio
+* Modelagem de banco de dados
+
+<div align="center">
+
+`● EM DESENVOLVIMENTO`
+
+</div>
+
+<br>
+
+# `05` — OUTROS PROJETOS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Sistema de Planilhas
+
+Sistema inspirado em ferramentas como Excel e Google Sheets, com foco em centralização de informações e controle de acesso.
+
+**Tecnologias**
+
+`Java` `Spring Boot` `MySQL` `React`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Projetos de Jogos
+
+Projetos experimentais desenvolvidos para estudar gameplay, lógica de programação e criação de sistemas utilizando GameMaker.
+
+**Tecnologias**
+
+`GameMaker` `GML` `Pixel Art`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+# `06` — EM APRENDIZADO
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,typescript,docker&theme=dark"/>
+
+<br><br>
+
+`Java` · `Spring Boot` · `PostgreSQL` · `React` · `TypeScript` · `Docker`
+
+</div>
+
+<br>
+
+Meu objetivo é continuar evoluindo principalmente em **Backend e Engenharia de Software**, aprofundando conhecimentos em arquitetura, APIs, bancos de dados, containers e boas práticas de desenvolvimento.
+
+<br>
+
+# `07` — GITHUB
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MSouzaProgrammer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSouzaProgrammer&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 <br><br>
 
@@ -166,27 +225,61 @@ Competitive FPS
 
 <br>
 
-## `07` — CURRENTLY LEARNING
+# `08` — ALÉM DO CÓDIGO
 
-<div align="center">
+<table>
+<tr>
 
-`Java`　 `Spring Boot`　 `PostgreSQL`　 `React`　 `TypeScript`
+<td align="center" width="33%">
 
-</div>
+## 🎹
+
+### Música
+
+Teclado & Piano
+
+</td>
+
+<td align="center" width="33%">
+
+## 🎸
+
+### Violão
+
+Prática & música
+
+</td>
+
+<td align="center" width="33%">
+
+## 🎮
+
+### Games
+
+FPS competitivo
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-## `08` — PHILOSOPHY
+# `09` — FILOSOFIA
 
 <div align="center">
 
-### `Build things worth playing.`
+<br>
+
+## `Transformar ideias em código.`
 
 <br>
 
-Coding is the main quest.
-Game development is the side quest.
-Music is the soundtrack.
+**Backend é a missão principal.**
+**Game Development é a side quest.**
+**Música é a trilha sonora.**
+
+<br>
 
 </div>
 
@@ -196,11 +289,26 @@ Music is the soundtrack.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@mateus.suky-161B22?style=flat-square\&logo=instagram\&logoColor=E4405F)](https://instagram.com/mateus.suky)
-[![Email](https://img.shields.io/badge/mateusassissouzaa%40gmail.com-161B22?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:mateusassissouzaa@gmail.com)
+<a href="https://github.com/MSouzaProgrammer">
+
+<img src="https://img.shields.io/badge/GitHub-MSOUZAPROGRAMMER-161B22?style=flat-square&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://instagram.com/mateus.suky">
+
+<img src="https://img.shields.io/badge/Instagram-@MATEUS.SUKY-161B22?style=flat-square&logo=instagram&logoColor=E4405F"/>
+
+</a>
+
+<a href="mailto:mateusassissouzaa@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-CONTATO-161B22?style=flat-square&logo=gmail&logoColor=EA4335"/>
+
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0D1117,100:05070D&height=100&section=footer"/>
 
 </div>
