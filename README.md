@@ -1,345 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020409,45:07110B,100:020409&height=220&section=header&text=MATEUS%20ASSIS&fontSize=52&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=JAVA%20%2F%2F%20BACKEND%20%2F%2F%20GAME%20DEVELOPER&descSize=16&descAlignY=63"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060A0F,50:101820,100:060A0F&height=220&section=header&text=MATEUS%20ASSIS&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=JAVA%20DEVELOPER%20%20%2F%2F%20BACKEND%20%20%2F%2F%20GAME%20DEV&descSize=15&descAlignY=63"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/BUILD-2026-00FF41?style=for-the-badge&labelColor=050505"/>
+<h3>Construindo sistemas. Explorando ideias. Escrevendo código.</h3>
 
-<br><br>
+<br>
 
 <a href="https://github.com/MSouzaProgrammer">
-<img src="https://img.shields.io/badge/GITHUB-MSOUZAPROGRAMMER-050505?style=for-the-badge&logo=github&logoColor=00FF41"/>
-</a>
-
-<a href="https://instagram.com/mateus.suky">
-<img src="https://img.shields.io/badge/INSTAGRAM-@MATEUS.SUKY-050505?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/GitHub-MSOUZAPROGRAMMER-111820?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:mateusassissouzaa@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-050505?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Email-Contato-111820?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://instagram.com/mateus.suky">
+<img src="https://img.shields.io/badge/Instagram-@mateus.suky-111820?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 <br><br>
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
+# Olá, eu sou o Mateus.
+
+Sou desenvolvedor com foco em **Java e Backend**, apaixonado por transformar ideias em aplicações reais.
+
+Atualmente meu principal foco está em **Java, Spring Boot, APIs REST, bancos de dados e arquitetura de aplicações**.
+
+Também exploro o lado criativo da programação através de **desenvolvimento de jogos**, principalmente com GameMaker e projetos 2D.
+
+Gosto de aprender construindo: cada projeto é uma oportunidade para entender melhor como software realmente funciona.
+
+</td>
+
+<td width="38%" valign="top">
+
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███╗   ███╗ █████╗ ████████╗███████╗██╗   ██╗███████╗        ║
-║   ████╗ ████║██╔══██╗╚══██╔══╝██╔════╝██║   ██║██╔════╝        ║
-║   ██╔████╔██║███████║   ██║   █████╗  ██║   ██║███████╗        ║
-║   ██║╚██╔╝██║██╔══██║   ██║   ██╔══╝  ╚██╗ ██╔╝╚════██║        ║
-║   ██║ ╚═╝ ██║██║  ██║   ██║   ███████╗ ╚████╔╝ ███████║        ║
-║   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝  ╚═══╝  ╚══════╝        ║
-║                                                                  ║
-║              BACKEND DEVELOPER // GAME DEVELOPER                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+MATEUS ASSIS
+
+JAVA
+BACKEND
+SPRING BOOT
+DATABASE
+GAME DEVELOPMENT
+
+──────────────
+
+BUILDING
+LEARNING
+EXPERIMENTING
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
-
-```text
-┌──[ mateus@github ]─[ ~/profile ]─────────────────────────────────────┐
-│                                                                      │
-│  $ whoami                                                           │
-│                                                                      │
-│  Mateus Assis                                                        │
-│  Java Developer / Backend Developer / Game Developer                 │
-│                                                                      │
-│  $ systemctl status developer                                        │
-│                                                                      │
-│  ● developer.service - Active                                        │
-│    Loaded: loaded                                                     │
-│    Active: running                                                    │
-│    Focus: Java / Spring Boot / Backend                               │
-│                                                                      │
-│  $ echo $MISSION                                                     │
-│                                                                      │
-│  Transformar ideias em software.                                     │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-# `01` // IDENTITY
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       USER PROFILE                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  NAME ............... MATEUS ASSIS                          │
-│  ROLE ............... JAVA / BACKEND DEVELOPER              │
-│  SECONDARY .......... GAME DEVELOPER                        │
-│  PRIMARY LANGUAGE ... JAVA                                   │
-│  BACKEND ............ SPRING BOOT                           │
-│  DATABASE ........... POSTGRESQL / MYSQL                    │
-│  GAME ENGINE ........ GAMEMAKER                             │
-│  STATUS ............. LEARNING / BUILDING                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-Sou desenvolvedor focado principalmente em **Java, Spring Boot e desenvolvimento Backend**.
-
-Gosto de construir aplicações completas, trabalhando desde a modelagem do banco de dados até APIs, regras de negócio e integração entre sistemas.
-
-Também tenho interesse em **Game Development**, utilizando programação como uma forma de explorar criatividade, gameplay e desenvolvimento de sistemas 2D.
-
-Minha abordagem é simples:
-
-```text
-LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT
-```
-
-<br>
-
-# `02` // CORE SYSTEM
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     CORE TECHNOLOGIES                       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  LANGUAGE                                                     │
-│  └── Java                                                     │
-│                                                              │
-│  BACKEND                                                      │
-│  ├── Spring Boot                                              │
-│  ├── Spring Data JPA                                          │
-│  ├── Hibernate                                                 │
-│  └── REST APIs                                                 │
-│                                                              │
-│  DATABASE                                                      │
-│  ├── PostgreSQL                                                │
-│  ├── MySQL                                                     │
-│  └── H2                                                        │
-│                                                              │
-│  BUILD                                                         │
-│  └── Maven                                                     │
-│                                                              │
-│  INFRA                                                         │
-│  └── Docker                                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-### `// BACKEND`
-
-<img src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Spring_Boot-050505?style=for-the-badge&logo=springboot&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Spring_Data-050505?style=for-the-badge&logo=spring&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Hibernate-050505?style=for-the-badge&logo=hibernate&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/REST_API-050505?style=for-the-badge&logo=fastapi&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Maven-050505?style=for-the-badge&logo=apachemaven&logoColor=00FF41"/>
-
-### `// DATABASE`
-
-<img src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/H2-050505?style=for-the-badge&logo=h2&logoColor=00FF41"/>
-
-### `// FRONTEND`
-
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=00FF41"/>
-
-### `// TOOLS`
-
-<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/IntelliJ-050505?style=for-the-badge&logo=intellijidea&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/VSCode-050505?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41"/>
-
-### `// GAME DEVELOPMENT`
-
-<img src="https://img.shields.io/badge/GameMaker-050505?style=for-the-badge&logo=gamemaker&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/GML-050505?style=for-the-badge&logo=gamemaker&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/2D_GAME_DEV-050505?style=for-the-badge&logo=unity&logoColor=00FF41"/>
-
-<br>
-
-# `03` // SKILL TREE
-
-```text
-                    ┌───────────────┐
-                    │  DEVELOPMENT  │
-                    └───────┬───────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-      BACKEND            DATABASE          GAME DEV
-          │                 │                 │
-     ┌────┴────┐        ┌───┴────┐       ┌────┴────┐
-     │         │        │        │       │         │
-   JAVA     SPRING    POSTGRES  MYSQL   GML     GAMEMAKER
-     │         │        │        │       │         │
-     └────┬────┘        └───┬────┘       └────┬────┘
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                            ▼
-                      SOFTWARE ENGINEERING
-```
-
-<br>
-
-# `04` // CURRENT MISSION
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    ACTIVE PROCESSES                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [RUNNING]  Java Backend Development                         │
-│  [RUNNING]  Spring Boot                                     │
-│  [RUNNING]  PostgreSQL                                      │
-│  [RUNNING]  REST API Development                            │
-│  [RUNNING]  React                                             │
-│  [RUNNING]  TypeScript                                      │
-│  [RUNNING]  Docker                                          │
-│  [RUNNING]  Game Development                                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-### `MISSION OBJECTIVES`
-
-```text
-[01] ████████████████████  Aprofundar Java
-[02] ██████████████████░░  Evoluir com Spring Boot
-[03] ████████████████░░░░  Melhorar arquitetura
-[04] ███████████████░░░░░  Dominar bancos relacionais
-[05] ████████████░░░░░░░░  Evoluir no React
-[06] ██████████░░░░░░░░░░  Aprender Docker
-[07] █████████░░░░░░░░░░░  Criar jogos melhores
-```
-
-<br>
-
-# `05` // MAIN PROJECT
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              🚛 FLEET MANAGEMENT SYSTEM                     ║
-║                                                              ║
-║              STATUS: ███████████░░ IN DEV                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-Um sistema para gerenciamento de operações relacionadas a uma frota de veículos.
-
-O projeto envolve **Backend, banco de dados, regras de negócio, APIs REST e organização da aplicação em camadas**.
-
-```text
-PROJECT
-│
-├── Java
-│
-├── Spring Boot
-│   ├── REST API
-│   ├── Services
-│   └── Controllers
-│
-├── JPA / Hibernate
-│
-├── PostgreSQL
-│
-└── Business Rules
-```
-
-### `SYSTEM MODULES`
-
-```text
-[✓] Gerenciamento de veículos
-[✓] Modelagem de dados
-[✓] Regras de negócio
-[✓] API REST
-[✓] Persistência
-[→] Novos módulos
-[→] Novas funcionalidades
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-00FF41?style=for-the-badge&labelColor=050505"/>
+### `01` — STACK
 
 </div>
 
 <br>
-
-# `06` // PROJECT ARCHIVE
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-### `01` // SISTEMA DE PLANILHAS
+### Backend
 
-Sistema desenvolvido para centralizar informações que normalmente seriam distribuídas em diversas planilhas.
+<br>
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<br><br>
+<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<br><br>
+<img src="https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=59666C"/>
+<br><br>
+<img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### Database
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<br><br>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<br><br>
+<img src="https://img.shields.io/badge/H2-0D1117?style=for-the-badge&logo=h2&logoColor=9B9B9B"/>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### Frontend & Tools
+
+<br>
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br><br>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<br><br>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<br><br>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<div align="center">
+
+### `02` — O QUE ESTOU CONSTRUINDO
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+## 🚛 Sistema de Gestão de Frotas
+
+Meu principal projeto atual.
+
+Uma aplicação pensada para organizar e centralizar operações relacionadas a uma frota de veículos, com foco em estrutura de backend e regras de negócio.
+
+### Tecnologias
+
+`Java` · `Spring Boot` · `PostgreSQL` · `JPA` · `Hibernate` · `REST API`
+
+### Projeto
 
 ```text
-STACK
+BACKEND
+   │
+   ├── Controllers
+   ├── Services
+   ├── Repositories
+   ├── Entities
+   └── Business Rules
 
-Java
-Spring Boot
-MySQL
-React
-
-FEATURES
-
-→ Usuários
-→ Planilhas
-→ Permissões
-→ Compartilhamento
-→ REST API
+DATABASE
+   │
+   └── PostgreSQL
 ```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### `02` // GAME DEVELOPMENT
-
-Projetos experimentais focados em desenvolvimento de jogos.
+## Estado atual
 
 ```text
-STACK
+██████████████░░░░░░
 
-GameMaker
-GML
-Pixel Art
-
-FOCUS
-
-→ Gameplay
-→ Game Mechanics
-→ Sistemas 2D
-→ Programação
-→ Prototipação
+DESENVOLVIMENTO
+───────────────
+Backend        ●
+Database       ●
+API            ●
+Architecture   ●
+New Modules    ○
 ```
+
+**Status**
+
+`IN DEVELOPMENT`
+
+**Objetivo**
+
+Construir uma base sólida e evoluir o sistema de forma incremental.
 
 </td>
 
@@ -348,69 +198,159 @@ FOCUS
 
 <br>
 
-# `07` // GITHUB ANALYTICS
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MSouzaProgrammer&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF41&text_color=8B949E&icon_color=00FF41&include_all_commits=true&count_private=true&rank_icon=github"/>
+### `03` — OUTROS PROJETOS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSouzaProgrammer&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF41&text_color=8B949E&langs_count=8"/>
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Sistema de Planilhas
+
+Uma aplicação inspirada em ferramentas como Excel e Google Sheets.
+
+A proposta é centralizar planilhas, usuários e permissões em uma única plataforma.
+
+`Java` `Spring Boot` `MySQL` `React`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎮 Game Development
+
+Projetos experimentais voltados para desenvolvimento de jogos e programação criativa.
+
+Foco em sistemas 2D, gameplay, mecânicas e prototipação.
+
+`GameMaker` `GML` `Pixel Art`
+
+</td>
+
+</tr>
+</table>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MSouzaProgrammer&bg_color=050505&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"/>
+<div align="center">
+
+### `04` — ÁREAS DE INTERESSE
 
 </div>
 
 <br>
 
-# `08` // SYSTEM LOG
-
 ```text
-[2026] ──► Java / Spring Boot
-          └─► Backend development
-
-[2026] ──► PostgreSQL
-          └─► Database modeling
-
-[2026] ──► React / TypeScript
-          └─► Frontend development
-
-[2026] ──► Docker
-          └─► Containers / environments
-
-[2026] ──► Game Development
-          └─► GameMaker / GML / 2D
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  SOFTWARE                                                        │
+│                                                                  │
+│  Java ─────────────── Backend                                    │
+│  Spring Boot ──────── APIs & Applications                        │
+│  PostgreSQL ───────── Data Modeling                              │
+│  JPA / Hibernate ──── Persistence                                │
+│  Docker ───────────── Environments                               │
+│                                                                  │
+│  CREATIVE COMPUTING                                               │
+│                                                                  │
+│  GameMaker ────────── Game Development                           │
+│  GML ──────────────── Gameplay                                  │
+│  2D ───────────────── Prototyping                                │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
-
-# `09` // LEARNING PROTOCOL
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    LEARNING PROTOCOL                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  JAVA             ████████████████████  CORE                ║
-║  SPRING BOOT      ██████████████████░░  BACKEND             ║
-║  SQL              █████████████████░░░  DATABASE            ║
-║  POSTGRESQL       ████████████████░░░░  DATABASE            ║
-║  REACT            ████████████░░░░░░░░  FRONTEND            ║
-║  TYPESCRIPT       ██████████░░░░░░░░░░  FRONTEND            ║
-║  DOCKER           ████████░░░░░░░░░░░░  INFRA              ║
-║  GAME DEV         ███████████░░░░░░░░░  SIDE QUEST          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### `05` — ATUALMENTE APRENDENDO
 
 </div>
 
 <br>
 
-# `10` // SIDE QUESTS
+<table>
+<tr>
+
+<td align="center" width="20%">
+<br>
+**JAVA**
+<br><br>
+Aprofundamento
+<br><br>
+</td>
+
+<td align="center" width="20%">
+<br>
+**SPRING BOOT**
+<br><br>
+Backend
+<br><br>
+</td>
+
+<td align="center" width="20%">
+<br>
+**POSTGRESQL**
+<br><br>
+Banco de dados
+<br><br>
+</td>
+
+<td align="center" width="20%">
+<br>
+**REACT**
+<br><br>
+Frontend
+<br><br>
+</td>
+
+<td align="center" width="20%">
+<br>
+**DOCKER**
+<br><br>
+Infraestrutura
+<br><br>
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+<div align="center">
+
+### `06` — GITHUB
+
+<br>
+
+<img src="https://img.shields.io/github/followers/MSouzaProgrammer?style=for-the-badge&label=FOLLOWERS&color=111820&labelColor=060A0F"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/MSouzaProgrammer?style=for-the-badge&label=STARS&color=111820&labelColor=060A0F"/>
+&nbsp;
+<img src="https://img.shields.io/github/repositories/MSouzaProgrammer?style=for-the-badge&label=REPOSITORIES&color=111820&labelColor=060A0F"/>
+
+<br><br>
+
+<a href="https://github.com/MSouzaProgrammer?tab=repositories">
+<img src="https://img.shields.io/badge/VER%20PROJETOS-111820?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### `07` — ALÉM DO CÓDIGO
+
+<br>
 
 <table>
 <tr>
@@ -419,27 +359,10 @@ FOCUS
 
 ## 🎹
 
-### MUSIC
+**Música**
 
-```text
-PIANO
-KEYBOARD
-MUSIC THEORY
-```
-
-</td>
-
-<td align="center" width="33%">
-
-## 🎸
-
-### GUITAR
-
-```text
-PRACTICE
-MUSIC
-LEARNING
-```
+Teclado
+Piano
 
 </td>
 
@@ -447,119 +370,63 @@ LEARNING
 
 ## 🎮
 
-### GAMING
+**Games**
 
-```text
 FPS
-COMPETITIVE
-GAMES
-```
+Game Development
+
+</td>
+
+<td align="center" width="33%">
+
+## 🎨
+
+**Criatividade**
+
+Pixel Art
+Projetos pessoais
 
 </td>
 
 </tr>
 </table>
 
-<br>
+</div>
 
-# `11` // TERMINAL
-
-```text
-┌──[ mateus@dev ]─[ ~/projects ]──────────────────────────────────────┐
-│                                                                    │
-│  $ git status                                                      │
-│                                                                    │
-│  On branch main                                                    │
-│  Your branch is up to date.                                       │
-│                                                                    │
-│  $ mvn spring-boot:run                                             │
-│                                                                    │
-│  :: Spring Boot ::                                                │
-│  :: Application started                                           │
-│                                                                    │
-│  $ docker ps                                                       │
-│                                                                    │
-│  CONTAINER        STATUS                                           │
-│  database         UP                                               │
-│  backend          UP                                               │
-│                                                                    │
-│  $ echo "keep building"                                            │
-│                                                                    │
-│  keep building                                                     │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-# `12` // PHILOSOPHY
+<br><br>
 
 <div align="center">
 
 ```text
-        ┌───────────────────────────────────────┐
-        │                                       │
-        │       BUILD SOMETHING REAL.           │
-        │                                       │
-        │       BREAK SOMETHING.                │
-        │                                       │
-        │       FIND OUT WHY.                   │
-        │                                       │
-        │       FIX IT.                         │
-        │                                       │
-        │       LEARN.                          │
-        │                                       │
-        └───────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│                     BUILD WITH PURPOSE                  │
+│                                                         │
+│      código é ferramenta.                              │
+│      projetos são laboratório.                          │
+│      aprendizado é processo.                            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
-
-### `BUILD // DEBUG // LEARN // REPEAT`
 
 <br>
 
-```text
-Backend é a missão principal.
-Game Development é a side quest.
-Música é a trilha sonora.
-```
+**Java no backend.
+Criatividade no game dev.
+Curiosidade em tudo.**
+
+<br><br>
+
+<a href="https://github.com/MSouzaProgrammer">
+<img src="https://img.shields.io/badge/EXPLORAR_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 <br>
 
-# `13` // CONNECTION
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                   CONNECTION AVAILABLE                      ║
-║                                                              ║
-║          GitHub  ──►  MSouzaProgrammer                       ║
-║          Instagram ──► @mateus.suky                          ║
-║          Email   ──►  Contact                                ║
-║                                                              ║
-║                   STATUS: ONLINE                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<a href="https://github.com/MSouzaProgrammer">
-<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=050505"/>
-</a>
-
-<a href="https://instagram.com/mateus.suky">
-<img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=050505"/>
-</a>
-
-<a href="mailto:mateusassissouzaa@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=050505"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,50:07110B,100:020409&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060A0F,50:101820,100:060A0F&height=110&section=footer"/>
 
 </div>
